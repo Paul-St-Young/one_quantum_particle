@@ -1,0 +1,3 @@
+2D Grid of Hatree-Fock/cc-pVDZ energies. Grid positions are in angstrom, energies are in Hatree.
+
+Grid generated with the nexus script hcn.py. Need nexus from QMCPACK and GAMESS to run.

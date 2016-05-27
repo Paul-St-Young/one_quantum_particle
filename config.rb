@@ -1,7 +1,7 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "https://github.com/Paul-St-Young/one_quantum_particle"
+http_path = "https://github.com/Paul-St-Young/one_quantum_particle/pyone"
 css_dir = "stylesheets"
 sass_dir = "sass"
 images_dir = "images"
